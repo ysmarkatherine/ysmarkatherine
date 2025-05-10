@@ -4,9 +4,9 @@ Hi 👋 My name is Ysmar Katherine Trujillo
 Web Developer
 -------------
 
-I am a systems engineer with 7 years of experience in the area of software development, working in positions of Visual Development Technical Leader, Senior Visual Programmer and Programming Analyst since 2017. Knowledge of .NET languages ​​such as C# and Visual Basic, ASP.NET Core, Entity Framework and Angular. Knowledge of HTML5, CSS3, JavaScript, JQuery library and Bootstrap Web environment technologies. Database administration and maintenance in SQL Server. Knowledge of the Transact-SQL language for developing advanced queries. Development of reports with Reporting Services and Crystal Reports. Use of Microsoft Office tools.
+I am a systems engineer with 8 years of experience in the area of software development, working in positions of Visual Development Technical Leader, Senior Visual Programmer and Programming Analyst since 2017. Knowledge of .NET languages ​​such as C# and Visual Basic, ASP.NET Core, Entity Framework and Angular. Knowledge of HTML5, CSS3, JavaScript, JQuery library and Bootstrap Web environment technologies. Database administration and maintenance in SQL Server. Knowledge of the Transact-SQL language for developing advanced queries. Development of reports with Reporting Services and Crystal Reports. Use of Microsoft Office tools.
 
-* 🌍  I'm based in Miami-USA
+* 🌍  I'm based in Denver-USA
 * ✉️  You can contact me at [ysmarktt@gmail.com](mailto:ysmarktt@gmail.com)
 * ⚡  I love books and nail design <3
 
